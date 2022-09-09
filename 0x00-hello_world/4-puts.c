@@ -1,12 +1,13 @@
 #include <stdio.h>
-
-/**
- * main - print the string in the main function
- * this program prints Programming is like building a multilingual puzzle
- * Return: 0
- */
-int main(void)
+/*
+*main type is void
+*
+* write a code to print programming is like bulding a multilingual puzzle.
+*
+*/
+int main (void)
 {        
-         puts("\"Programming is like building a multilingual puzzle");
-         return (0);
-}	 
+	puts("programming is like bulding a multilingual puzzle");
+	return 0;
+}
+	
