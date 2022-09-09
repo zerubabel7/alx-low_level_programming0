@@ -3,7 +3,8 @@
 /**
  * main - this showes the size using sizeof function
  *
- * Description: using the main function this program prints the size of different variables.
+ * Description: using the main function
+ *this program prints the size of different variables.
  * Return: 0
  */
 int main(void)
