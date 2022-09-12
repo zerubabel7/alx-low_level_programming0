@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
- * main - write a program that prints all possible combinations of single numbers.
+ * main - write a program that prints all possible combination.
  * Description: using the main function
  * this program prints all possible combinations of single numbers
  * Return: 0
