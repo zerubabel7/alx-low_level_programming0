@@ -3,7 +3,7 @@
 /**
  * reset_to_98.c - resets the value to 98
  * @n: parameter
- *
+ * description: resets to 98
  *
  * Return: nothing
  */
