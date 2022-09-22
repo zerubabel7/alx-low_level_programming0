@@ -36,7 +36,7 @@ char transform_2(char x)
 	{
 		if (x == one[i])
 		{
-			replacment = two[i];
+			replacement = two[i];
 			break;
 		}
 		i++;
